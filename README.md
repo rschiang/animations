@@ -1,2 +1,2 @@
 # animations
-Animated stickers and animations.
+Animated stickers and hand-drawn animations.
